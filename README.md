@@ -1,5 +1,7 @@
 # Real Estate Investment Plan
 
+![image](https://user-images.githubusercontent.com/86930309/230511860-c775f534-320c-46d0-aedc-a5413b01c2c4.png)
+
 ### In this case study I used the Realtor.com database that had 207,571 home sales information from 10 states plus Puerto Rico and the Virgin Islands. The database was over 25 mb and I could not upload to GitHub. I can share the database if you need to see it. 
 
 ### The main focus of this case study is find a state and certain traits for a house to invest in as a rental property utilizing this dataset. 
@@ -18,7 +20,7 @@
 
 ### - Load Data
 
-### - Data Wrangling
+### - Data Wrangling:
 
  a. Drop Null Values
 
