@@ -16,11 +16,11 @@
                         
                         4. What traits do the houses have in common?
 
-### - Import Libraries
+## - Import Libraries
 
-### - Load Data
+## - Load Data
 
-### - Data Wrangling:
+## - Data Wrangling:
 
  a. Drop Null Values
 
@@ -28,7 +28,16 @@
 
  c. Create a New Column Called Year
  
+ ## Exploratory Data Analysis
  
+ ### 1. Median and Average Price
   
-      
-      
+ ![image](https://user-images.githubusercontent.com/86930309/230512160-3337b41c-d18f-4f01-ae62-cfb31d508518.png)  
+ 
+ a. Median price is lower than the mean
+ 
+ b. It is possible the price of our property will be less than the mean
+ 
+ c. Mean prices have gone up in the last six years
+ 
+ d. Median prices have gone down    
