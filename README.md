@@ -30,9 +30,11 @@
  
  ## Exploratory Data Analysis
  
- ### 1. Median and Average Price
+ ### 1. Median and Average Price per Year
   
  ![image](https://user-images.githubusercontent.com/86930309/230512160-3337b41c-d18f-4f01-ae62-cfb31d508518.png)  
+ 
+ ### Average Price per Year Stats:
  
  a. Median price is lower than the mean.
  
