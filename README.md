@@ -20,7 +20,7 @@
 
 ##  Load Data
 
-## Data Wrangling:
+## Data Wrangling
 
  a. Drop Null Values
 
