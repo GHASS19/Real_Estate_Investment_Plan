@@ -89,3 +89,17 @@ a. We should purchase a house with four to three beds & three to two baths.
 b. These are the traits that people desire the most in a home.
 
 c. A one bathroom would be ideal but not as many of these.
+
+### 6. Home Sales per State
+
+![image](https://user-images.githubusercontent.com/86930309/230520419-b8421c47-aca0-473e-a181-9bbddc117e86.png)
+
+### Different States Data:
+
+a. Best to choose a state in the middle.
+
+b. I recomend Massachusetts.
+
+c. Universities, smaller area, and beach potential.
+
+d. Lots of potential competition in New Jersey.
