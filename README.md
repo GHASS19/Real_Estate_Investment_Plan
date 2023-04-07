@@ -16,11 +16,11 @@
                         
                         4. What traits do the houses have in common?
 
-## - Import Libraries
+## Import Libraries
 
-## - Load Data
+##  Load Data
 
-## - Data Wrangling:
+## Data Wrangling:
 
  a. Drop Null Values
 
@@ -103,3 +103,17 @@ b. I recomend Massachusetts.
 c. Universities, smaller area, and beach potential.
 
 d. Lots of potential competition in New Jersey.
+
+## Where to Invest?
+
+### I suggest we purchase:
+
+1. Four Bedrooms
+
+2. Two Bathrooms
+
+3. In Massachusettes
+
+4. Less than the mean price
+
+5. Is it possible to find this?
