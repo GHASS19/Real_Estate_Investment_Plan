@@ -56,7 +56,7 @@ c. Rising mean prices the past four years.
 
 ![image](https://user-images.githubusercontent.com/86930309/230513133-7ed48397-3bee-458e-a380-33d103ae5bde.png)
 
-### Common Traits
+### Common Traits:
 
 a. Bed & bath have a high correlation at .62.
 
@@ -70,8 +70,22 @@ d. Most of the elements are slightly correlated.
 
 ![image](https://user-images.githubusercontent.com/86930309/230513429-6a76cd4b-9c99-41e3-9d2c-65488cca9c23.png)
 
+### Bedroom Data:
+
 a. We should purchase a three or four bedroom house. 
 
 b. 3/4 bedrooms is the most popular type of house.
 
 c. These would be the most profitable types of properties.
+
+### 5. Number of Bathrooms per House
+
+![image](https://user-images.githubusercontent.com/86930309/230516334-7729cc26-aad5-4b5c-b9f1-895ae1ff8a8a.png)
+
+### Bathrooms Data: 
+
+a. We should purchase a house with four to three beds & three to two baths.
+
+b. These are the traits that people desire the most in a home.
+
+c. A one bathroom would be ideal but not as many of these.
